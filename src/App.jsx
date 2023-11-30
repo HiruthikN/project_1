@@ -1,6 +1,6 @@
 /* eslint-disable no-unused-vars */
-import React, { useState } from 'react'; // Added 'React' and corrected import statement
-import { Container, Form, Button } from 'react-bootstrap'; // Corrected 'react-dom' to 'react-bootstrap'
+import React, { useState } from 'react'; 
+import { Container, Form, Button } from 'react-bootstrap'; 
 import Signup from './pages/Signup';
 import Login from './pages/Login';
 import Home from './pages/Home';
